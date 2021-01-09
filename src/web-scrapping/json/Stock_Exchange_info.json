@@ -1,0 +1,138 @@
+{
+  "Amman": {
+    "code": " ",
+    "text": "U/k"
+  },
+  "Karachi Stock Exchange": {
+    "code": " ",
+    "text": "https://dps.psx.com.pk/company/HINOON"
+  },
+  "HoChiMinh City Stock Exchange": {
+    "code": "HOSE",
+    "text": "https://in.tradingview.com/symbols/HOSE-ADS/"
+  },
+  "Korea Stock Exchange": {
+    "code": "KRX",
+    "text": "https://in.tradingview.com/symbols/KRX-002880/"
+  },
+  "Singapore Stock Exchange": {
+    "code": "SGX",
+    "text": " "
+  },
+  "New York Stock Exchange": {
+    "code": "NYSE",
+    "text": " "
+  },
+  "Tokyo Stock Exchange": {
+    "code": "TSE",
+    "text": " "
+  },
+  "Hanoi Securities Trading Center": {
+    "code": " ",
+    "text": "https://www.reuters.com/companies/VCG.HN"
+  },
+  "Mumbai Stock Exchange": {
+    "code": "BSE",
+    "text": "https://www.cnbc.com/quotes/?symbol=500171"
+  },
+  "Egypt Stock Exchange": {
+    "code": "EGX",
+    "text": " "
+  },
+  "Oslo Stock Exchange": {
+    "code": "OSL",
+    "text": " "
+  },
+  "Trinidad & Tabago Stock Exchange": {
+    "code": "TTSE",
+    "text": " "
+  },
+  "Taiwan Stock Exchange": {
+    "code": "TWSE",
+    "text": " "
+  },
+  "Saudi Arabian Stock Exchange": {
+    "code": "TADAWUL",
+    "text": " "
+  },
+  "Kuwait Stock Exchange": {
+    "code": " ",
+    "text": "X"
+  },
+  "Fukuoka Stock Exchange": {
+    "code": "TSE",
+    "text": " "
+  },
+  "Dubai Stock Exchange": {
+    "code": "DFM",
+    "text": " "
+  },
+  "Tel Aviv Stock Exchange": {
+    "code": "TASE",
+    "text": " "
+  },
+  "Philippine Stock Exchange": {
+    "code": " ",
+    "text": "X"
+  },
+  "Nagoya Stock Exchange": {
+    "code": "NAG",
+    "text": " "
+  },
+  "Colombo Stock Exchange": {
+    "code": " ",
+    "text": " "
+  },
+  "Sapporo Stock Exchange": {
+    "code": " ",
+    "text": " "
+  },
+  "Hong Kong Stock Exchange": {
+    "code": "HKEX",
+    "text": " "
+  },
+  "London Stock Exchange": {
+    "code": "LSE",
+    "text": " "
+  },
+  "NASDAQ": {
+    "code": "NASDAQ",
+    "text": " "
+  },
+  "Bahrain Stock Exchange": {
+    "code": "BSE",
+    "text": " "
+  },
+  "TSX Venture Exchange": {
+    "code": " ",
+    "text": " "
+  },
+  "Qatar Stock Exchange": {
+    "code": "QSE",
+    "text": " "
+  },
+  "Indonesia Stock Exchange": {
+    "code": "IDX",
+    "text": " "
+  },
+  "Shenzhen Stock Exchange": {
+    "code": "SZSE",
+    "text": " "
+  },
+  "Istanbul Stock Exchange": {
+    "code": " ",
+    "text": " "
+  },
+  "Malaysia Bursa": {
+    "code": " ",
+    "text": " "
+  },
+  "None": {
+    "code": " ",
+    "text": " "
+  },
+  "Shanghai Stock Exchange": {
+    "code": "SSE",
+    "text": " "
+  }
+}

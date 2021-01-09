@@ -1,0 +1,982 @@
+[
+  {
+    "index": 4,
+    "name": "AAPICO HITECH PUBLIC COMPANY LIMITED",
+    "link": "https://in.tradingview.com/symbols/TTSE-AH"
+  },
+  {
+    "index": 5,
+    "name": "ABB INDIA LIMITED",
+    "link": "https://in.tradingview.com/symbols/BSE-500002"
+  },
+  {
+    "index": 6,
+    "name": "ABICO HOLDINGS PUBLIC COMPANY LIMITED",
+    "link": "https://in.tradingview.com/symbols/TTSE-ABICO"
+  },
+  {
+    "index": 7,
+    "name": "ABLEREX ELECTRONICS CO., LTD.",
+    "link": "https://in.tradingview.com/symbols/TWSE-3628"
+  },
+  {
+    "index": 26,
+    "name": "AGRIPURE HOLDINGS PUBLIC COMPANY LIMITED",
+    "link": "https://in.tradingview.com/symbols/TTSE-APURE"
+  },
+  {
+    "index": 28,
+    "name": "AIRA CAPITAL PUBLIC COMPANY LIMITED",
+    "link": "https://in.tradingview.com/symbols/TTSE-AIRA"
+  },
+  {
+    "index": 38,
+    "name": "ALLA PUBLIC COMPANY LIMITED",
+    "link": "https://in.tradingview.com/symbols/TTSE-ALLA"
+  },
+  {
+    "index": 48,
+    "name": "AMATA VN PUBLIC COMPANY LIMITED",
+    "link": "https://in.tradingview.com/symbols/TTSE-AMATAV"
+  },
+  {
+    "index": 66,
+    "name": "APTECH LIMITED",
+    "link": "https://in.tradingview.com/symbols/BSE-532475"
+  },
+  {
+    "index": 67,
+    "name": "AQUA CORPORATION PUBLIC COMPANY LIMITED",
+    "link": "https://in.tradingview.com/symbols/TTSE-AQUA"
+  },
+  {
+    "index": 86,
+    "name": "ASIA NEO TECH INDUSTRIAL CO., LTD.",
+    "link": "https://in.tradingview.com/symbols/TWSE-4542"
+  },
+  {
+    "index": 87,
+    "name": "ASIA PRECISION PUBLIC COMPANY LIMITED",
+    "link": "https://in.tradingview.com/symbols/TTSE-APCS"
+  },
+  {
+    "index": 90,
+    "name": "ASKA CORPORATION",
+    "link": "https://in.tradingview.com/symbols/NSE-7227"
+  },
+  {
+    "index": 93,
+    "name": "AT-GROUP CO.,LTD.",
+    "link": "https://in.tradingview.com/symbols/NSE-8293"
+  },
+  {
+    "index": 102,
+    "name": "B.GRIMM POWER PUBLIC COMPANY LIMITTED",
+    "link": "https://in.tradingview.com/symbols/TTSE-BGRIM"
+  },
+  {
+    "index": 105,
+    "name": "BAIC MOTOR Corporation Limited",
+    "link": "https://in.tradingview.com/symbols/HKEX-01958"
+  },
+  {
+    "index": 110,
+    "name": "Bawang International Group Holding (HK) Limited",
+    "link": "https://in.tradingview.com/symbols/HKEX-01338"
+  },
+  {
+    "index": 127,
+    "name": "BENQ MEDICAL TECHNOLOGY CORPORATION",
+    "link": "https://in.tradingview.com/symbols/TWSE-4116"
+  },
+  {
+    "index": 129,
+    "name": "BEST FOOD HOLDING COMPANY LIMITED",
+    "link": "https://in.tradingview.com/symbols/HKEX-01488"
+  },
+  {
+    "index": 131,
+    "name": "BIN CHUAN ENTERPRISE CO., LTD.",
+    "link": "https://in.tradingview.com/symbols/TWSE-1569"
+  },
+  {
+    "index": 133,
+    "name": "BIOLASCO TAIWAN CO., LTD.",
+    "link": "https://in.tradingview.com/symbols/TWSE-6662"
+  },
+  {
+    "index": 142,
+    "name": "BRIGHT SHELAND INTERNATIONAL CO., LTD.",
+    "link": "https://in.tradingview.com/symbols/TWSE-4556"
+  },
+  {
+    "index": 143,
+    "name": "BRIGHTEK OPTOELECTRONIC CO., LTD.",
+    "link": "https://in.tradingview.com/symbols/TWSE-5244"
+  },
+  {
+    "index": 148,
+    "name": "BTS GROUP HOLDINGS PUBLIC COMPANY LIMITED",
+    "link": "https://in.tradingview.com/symbols/TTSE-BTS"
+  },
+  {
+    "index": 151,
+    "name": "C.C.P. CONTACT PROBES CO., LTD.",
+    "link": "https://in.tradingview.com/symbols/TWSE-6217"
+  },
+  {
+    "index": 160,
+    "name": "CARABAO GROUP PUBLIC COMPANY LIMITED",
+    "link": "https://in.tradingview.com/symbols/TTSE-CBG"
+  },
+  {
+    "index": 173,
+    "name": "CHAIN CHON INDUSTRIAL CO., LTD.",
+    "link": "https://in.tradingview.com/symbols/TWSE-5014"
+  },
+  {
+    "index": 193,
+    "name": "CHIALIN PRECISION INDUSTRIAL CO., LTD.",
+    "link": "https://in.tradingview.com/symbols/TWSE-3310"
+  },
+  {
+    "index": 194,
+    "name": "CHIAN HSING FORGING INDUSTRIAL CO., LTD.",
+    "link": "https://in.tradingview.com/symbols/TWSE-4528"
+  },
+  {
+    "index": 195,
+    "name": "CHIEFTEK PRECISION CO., LTD.",
+    "link": "https://in.tradingview.com/symbols/TWSE-1597"
+  },
+  {
+    "index": 197,
+    "name": "CHIME-BALL TECHNOLOGY CO., LTD.",
+    "link": "https://in.tradingview.com/symbols/TWSE-1595"
+  },
+  {
+    "index": 203,
+    "name": "China Electronics Huada Technology Company Limited",
+    "link": "https://in.tradingview.com/symbols/HKEX-00085"
+  },
+  {
+    "index": 204,
+    "name": "China Energy Development Holdings Limited",
+    "link": "https://in.tradingview.com/symbols/HKEX-00228"
+  },
+  {
+    "index": 206,
+    "name": "CHINA INNOVATION INVESTMENT LIMITED",
+    "link": "https://in.tradingview.com/symbols/HKEX-01217"
+  },
+  {
+    "index": 209,
+    "name": "China Machinery Engineering Corporation",
+    "link": "https://in.tradingview.com/symbols/HKEX-01829"
+  },
+  {
+    "index": 211,
+    "name": "CHINA MERCHANTS LAND LIMITED",
+    "link": "https://in.tradingview.com/symbols/HKEX-00978"
+  },
+  {
+    "index": 212,
+    "name": "China Oil And Gas Group Limited",
+    "link": "https://in.tradingview.com/symbols/HKEX-00603"
+  },
+  {
+    "index": 213,
+    "name": "China Railway Signal & Communication Corporation Limited",
+    "link": "https://in.tradingview.com/symbols/HKEX-03969"
+  },
+  {
+    "index": 215,
+    "name": "CHINA RESOURCES GAS GROUP LIMITED",
+    "link": "https://in.tradingview.com/symbols/HKEX-01193"
+  },
+  {
+    "index": 216,
+    "name": "CHINA RESOURCES PHARMACEUTICAL GROUP LIMITED",
+    "link": "https://in.tradingview.com/symbols/HKEX-03320"
+  },
+  {
+    "index": 217,
+    "name": "China Sandi Holdings Limited",
+    "link": "https://in.tradingview.com/symbols/HKEX-00910"
+  },
+  {
+    "index": 220,
+    "name": "CHINA TRAVEL INTERNATIONAL INVESTMENT HONG KONG LIMITED",
+    "link": "https://in.tradingview.com/symbols/HKEX-00308"
+  },
+  {
+    "index": 222,
+    "name": "China Water Industry Group Limited",
+    "link": "https://in.tradingview.com/symbols/HKEX-01129"
+  },
+  {
+    "index": 223,
+    "name": "CHINA XLX FERTILISER LTD.",
+    "link": "https://in.tradingview.com/symbols/HKEX-01866"
+  },
+  {
+    "index": 224,
+    "name": "China Yongda Automobile Group Co., Ltd.",
+    "link": "https://in.tradingview.com/symbols/HKEX-03669"
+  },
+  {
+    "index": 226,
+    "name": "CHING CHAN OPTICAL TECHNOLOGY CO., LTD.",
+    "link": "https://in.tradingview.com/symbols/TWSE-2070"
+  },
+  {
+    "index": 228,
+    "name": "CHOLAMANDALAM FINANCIAL HOLDINGS LIMITED",
+    "link": "https://in.tradingview.com/symbols/BSE-540762"
+  },
+  {
+    "index": 232,
+    "name": "CHTC Fong's International Company Limited",
+    "link": "https://in.tradingview.com/symbols/HKEX-00641"
+  },
+  {
+    "index": 233,
+    "name": "CHU KAI PUBLIC COMPANY LIMITED",
+    "link": "https://in.tradingview.com/symbols/TTSE-CRANE"
+  },
+  {
+    "index": 235,
+    "name": "CIMC-TIANDA HOLDINGS COMPANY LIMITED",
+    "link": "https://in.tradingview.com/symbols/HKEX-00445"
+  },
+  {
+    "index": 237,
+    "name": "CITIC Dameng Holdings Limited",
+    "link": "https://in.tradingview.com/symbols/HKEX-01091"
+  },
+  {
+    "index": 242,
+    "name": "CK POWER PUBLIC COMPANY LIMITED",
+    "link": "https://in.tradingview.com/symbols/TTSE-CKP"
+  },
+  {
+    "index": 245,
+    "name": "CL Group (Holdings) Limited",
+    "link": "https://in.tradingview.com/symbols/HKEX-08098"
+  },
+  {
+    "index": 249,
+    "name": "CLIFFORD MODERN LIVING COMPANY LIMITED",
+    "link": "https://in.tradingview.com/symbols/HKEX-03686"
+  },
+  {
+    "index": 264,
+    "name": "CONCORD MEDICAL CO., LTD",
+    "link": "https://in.tradingview.com/symbols/TWSE-6518"
+  },
+  {
+    "index": 267,
+    "name": "Cosco Shipping Holdings Co., Ltd.",
+    "link": "https://in.tradingview.com/symbols/HKEX-01919"
+  },
+  {
+    "index": 272,
+    "name": "COSMOS MACHINERY ENTERPRISES LIMITED",
+    "link": "https://in.tradingview.com/symbols/HKEX-00118"
+  },
+  {
+    "index": 275,
+    "name": "CRCC High-Tech Equipment Corporation Limited",
+    "link": "https://in.tradingview.com/symbols/HKEX-01786"
+  },
+  {
+    "index": 279,
+    "name": "Cross-Harbour (Holdings) Limited, The",
+    "link": "https://in.tradingview.com/symbols/HKEX-00032"
+  },
+  {
+    "index": 325,
+    "name": "Differ Group Holding Company Limited",
+    "link": "https://in.tradingview.com/symbols/HKEX-06878"
+  },
+  {
+    "index": 329,
+    "name": "DIMENSION COMPUTER TECHNOLOGY CO., LTD.",
+    "link": "https://in.tradingview.com/symbols/TWSE-6140"
+  },
+  {
+    "index": 356,
+    "name": "EASY FIELD CORPORATION",
+    "link": "https://in.tradingview.com/symbols/TWSE-6425"
+  },
+  {
+    "index": 359,
+    "name": "ECOCERA OPTRONICS CO., LTD.",
+    "link": "https://in.tradingview.com/symbols/TWSE-6597"
+  },
+  {
+    "index": 365,
+    "name": "ELECTRICITY GENERATING PUBLIC COMPANY LIMITED",
+    "link": "https://in.tradingview.com/symbols/TTSE-EGCO"
+  },
+  {
+    "index": 367,
+    "name": "EMINENCE ENTERPRISE LIMITED",
+    "link": "https://in.tradingview.com/symbols/HKEX-00616"
+  },
+  {
+    "index": 380,
+    "name": "EVERGREEN PRODUCTS GROUP LIMITED",
+    "link": "https://in.tradingview.com/symbols/HKEX-01962"
+  },
+  {
+    "index": 387,
+    "name": "FANTASIA HOLDINGS GROUP CO., LIMITED",
+    "link": "https://in.tradingview.com/symbols/HKEX-01777"
+  },
+  {
+    "index": 395,
+    "name": "FENG CHI BIOTECH CORP.",
+    "link": "https://in.tradingview.com/symbols/TWSE-6744"
+  },
+  {
+    "index": 410,
+    "name": "FORISE INTERNATIONAL LIMITED",
+    "link": "https://in.tradingview.com/symbols/SGX-I5H"
+  },
+  {
+    "index": 412,
+    "name": "FORTUNE PARTS INDUSTRY PUBLIC COMPANY LIMITED",
+    "link": "https://in.tradingview.com/symbols/TTSE-FPI"
+  },
+  {
+    "index": 418,
+    "name": "Franshion Properties (China) Limited",
+    "link": "https://in.tradingview.com/symbols/HKEX-00817"
+  },
+  {
+    "index": 426,
+    "name": "FU CHUN SHIN MACHINERY MANUFACTURE CO., LTD.",
+    "link": "https://in.tradingview.com/symbols/TWSE-6603"
+  },
+  {
+    "index": 430,
+    "name": "FUJI HENSOKUKI CO.,LTD.",
+    "link": "https://in.tradingview.com/symbols/NSE-6295"
+  },
+  {
+    "index": 435,
+    "name": "FUJI SEIKO LIMITED",
+    "link": "https://in.tradingview.com/symbols/NSE-6142"
+  },
+  {
+    "index": 452,
+    "name": "GALLANT MICRO. MACHINING CO., LTD.",
+    "link": "https://in.tradingview.com/symbols/TWSE-6640"
+  },
+  {
+    "index": 462,
+    "name": "GHCL LIMITED",
+    "link": "https://in.tradingview.com/symbols/BSE-500171"
+  },
+  {
+    "index": 468,
+    "name": "GLOBLEX HOLDING MANAGEMENT PUBLIC COMPANY LIMITED",
+    "link": "https://in.tradingview.com/symbols/TTSE-GBX"
+  },
+  {
+    "index": 473,
+    "name": "GODEX INTERNATIONAL CO., LTD.",
+    "link": "https://in.tradingview.com/symbols/TWSE-4987"
+  },
+  {
+    "index": 474,
+    "name": "GOLD RAIN ENTERPRISES CORP.",
+    "link": "https://in.tradingview.com/symbols/TWSE-4503"
+  },
+  {
+    "index": 477,
+    "name": "Goldpac Group Limited",
+    "link": "https://in.tradingview.com/symbols/HKEX-03315"
+  },
+  {
+    "index": 478,
+    "name": "GONGIN PRECISION INDUSTRIES CO., LTD.",
+    "link": "https://in.tradingview.com/symbols/TWSE-3178"
+  },
+  {
+    "index": 479,
+    "name": "GOOD FRIEND INTERNATIONAL HOLDINGS INC.",
+    "link": "https://in.tradingview.com/symbols/HKEX-02398"
+  },
+  {
+    "index": 480,
+    "name": "GOOD WAY TECHNOLOGY CO., LTD.",
+    "link": "https://in.tradingview.com/symbols/TWSE-3272"
+  },
+  {
+    "index": 481,
+    "name": "Grand Ming Holdings Limited",
+    "link": "https://in.tradingview.com/symbols/HKEX-01271"
+  },
+  {
+    "index": 501,
+    "name": "Guangdong Land Holdings Limited",
+    "link": "https://in.tradingview.com/symbols/HKEX-00124"
+  },
+  {
+    "index": 515,
+    "name": "Guangzhou Zhongke Jianyu Environmental Protection Co.,Ltd.",
+    "link": "https://in.tradingview.com/symbols/HKEX-08196"
+  },
+  {
+    "index": 516,
+    "name": "GUDENG PRECISION INDUSTRIAL CO., LTD.",
+    "link": "https://in.tradingview.com/symbols/TWSE-3680"
+  },
+  {
+    "index": 521,
+    "name": "GULF ENERGY DEVELOPMENT PUBLIC COMPANY LIMITED",
+    "link": "https://in.tradingview.com/symbols/TTSE-GULF"
+  },
+  {
+    "index": 528,
+    "name": "HAFNIA PTE. LTD.",
+    "link": "https://in.tradingview.com/symbols/OSE-HAFNIA"
+  },
+  {
+    "index": 538,
+    "name": "Hang Chi Holdings Limited",
+    "link": "https://in.tradingview.com/symbols/HKEX-08405"
+  },
+  {
+    "index": 554,
+    "name": "Hao Bai International (Cayman) Limited",
+    "link": "https://in.tradingview.com/symbols/HKEX-08431"
+  },
+  {
+    "index": 561,
+    "name": "HARMONY ELECTRONICS CORP.",
+    "link": "https://in.tradingview.com/symbols/TWSE-8182"
+  },
+  {
+    "index": 568,
+    "name": "Henderson Land Development Company Limited",
+    "link": "https://in.tradingview.com/symbols/HKEX-00012"
+  },
+  {
+    "index": 570,
+    "name": "HENGXIN TECHNOLOGY LTD.",
+    "link": "https://in.tradingview.com/symbols/HKEX-01085"
+  },
+  {
+    "index": 571,
+    "name": "Hi Sun Technology (China) Limited",
+    "link": "https://in.tradingview.com/symbols/HKEX-00818"
+  },
+  {
+    "index": 575,
+    "name": "HILONG HOLDING LIMITED",
+    "link": "https://in.tradingview.com/symbols/HKEX-01623"
+  },
+  {
+    "index": 596,
+    "name": "HONGHUA INTERNATIONAL CO.,LTD",
+    "link": "https://in.tradingview.com/symbols/HKEX-00196"
+  },
+  {
+    "index": 602,
+    "name": "HU LANE ASSOCIATE INC.",
+    "link": "https://in.tradingview.com/symbols/TWSE-6279"
+  },
+  {
+    "index": 618,
+    "name": "HYDOO INTERNATIONAL HOLDING LIMITED",
+    "link": "https://in.tradingview.com/symbols/HKEX-01396"
+  },
+  {
+    "index": 633,
+    "name": "IFS CAPITAL HOLDINGS (THAILAND) LIMITED",
+    "link": "https://in.tradingview.com/symbols/TTSE-IFS"
+  },
+  {
+    "index": 650,
+    "name": "INGENTEC CORPORATION",
+    "link": "https://in.tradingview.com/symbols/TWSE-4768"
+  },
+  {
+    "index": 651,
+    "name": "INGRESS INDUSTRIAL (THAILAND) PUBLIC COMPANY LIMITED",
+    "link": "https://in.tradingview.com/symbols/TTSE-INGRS"
+  },
+  {
+    "index": 652,
+    "name": "INMAX HOLDING CO., LTD.",
+    "link": "https://in.tradingview.com/symbols/TWSE-1591"
+  },
+  {
+    "index": 683,
+    "name": "JB ELEVEN CO.,LTD.",
+    "link": "https://in.tradingview.com/symbols/NSE-3066"
+  },
+  {
+    "index": 692,
+    "name": "JIAN SIN INDUSTRIAL CO, LTD",
+    "link": "https://in.tradingview.com/symbols/TWSE-4502"
+  },
+  {
+    "index": 722,
+    "name": "JSW HOLDINGS LIMITED",
+    "link": "https://in.tradingview.com/symbols/BSE-532642"
+  },
+  {
+    "index": 729,
+    "name": "Kam Hing International Holdings Limited",
+    "link": "https://in.tradingview.com/symbols/HKEX-02307"
+  },
+  {
+    "index": 758,
+    "name": "KINETIC MINES AND ENERGY LIMITED",
+    "link": "https://in.tradingview.com/symbols/HKEX-01277"
+  },
+  {
+    "index": 759,
+    "name": "KING CHOU MARINE TECHNOLOGY CO., LTD.",
+    "link": "https://in.tradingview.com/symbols/TWSE-4417"
+  },
+  {
+    "index": 760,
+    "name": "KINGBOARD LAMINATES HOLDINGS LIMITED",
+    "link": "https://in.tradingview.com/symbols/HKEX-01888"
+  },
+  {
+    "index": 775,
+    "name": "KOGE MICRO TECH CO., LTD.",
+    "link": "https://in.tradingview.com/symbols/TWSE-4568"
+  },
+  {
+    "index": 804,
+    "name": "LAUNCH TECH CO.,LTD",
+    "link": "https://in.tradingview.com/symbols/HKEX-02488"
+  },
+  {
+    "index": 818,
+    "name": "LONGITECH SMART ENERGY HOLDING LIMITED",
+    "link": "https://in.tradingview.com/symbols/HKEX-01281"
+  },
+  {
+    "index": 827,
+    "name": "LUNG PIEN VACUUM INDUSTRY CO., LTD.",
+    "link": "https://in.tradingview.com/symbols/TWSE-5267"
+  },
+  {
+    "index": 829,
+    "name": "MACAUTO INDUSTRIAL CO., LTD.",
+    "link": "https://in.tradingview.com/symbols/TWSE-9951"
+  },
+  {
+    "index": 835,
+    "name": "MAGNATE TECHNOLOGY CO., LTD.",
+    "link": "https://in.tradingview.com/symbols/TWSE-4541"
+  },
+  {
+    "index": 836,
+    "name": "MAHINDRA CIE AUTOMOTIVE LIMITED",
+    "link": "https://in.tradingview.com/symbols/BSE-532756"
+  },
+  {
+    "index": 874,
+    "name": "Mindtell Technology Limited",
+    "link": "https://in.tradingview.com/symbols/HKEX-08611"
+  },
+  {
+    "index": 875,
+    "name": "MINOR INTERNATIONAL PUBLIC COMPANY LIMITED",
+    "link": "https://in.tradingview.com/symbols/TTSE-MINT"
+  },
+  {
+    "index": 911,
+    "name": "MYTREX HEALTH TECHNOLOGIES, INC.",
+    "link": "https://in.tradingview.com/symbols/TWSE-4431"
+  },
+  {
+    "index": 924,
+    "name": "NANYANG HOLDINGS LIMITED",
+    "link": "https://in.tradingview.com/symbols/HKEX-00212"
+  },
+  {
+    "index": 938,
+    "name": "NEW RAY MEDICINE INTERNATIONAL HOLDING LIMITED",
+    "link": "https://in.tradingview.com/symbols/HKEX-06108"
+  },
+  {
+    "index": 939,
+    "name": "New Western Group Limited",
+    "link": "https://in.tradingview.com/symbols/HKEX-08242"
+  },
+  {
+    "index": 941,
+    "name": "NEXION TECHNOLOGIES LIMITED",
+    "link": "https://in.tradingview.com/symbols/HKEX-08420"
+  },
+  {
+    "index": 1007,
+    "name": "OKAYA & CO., LTD.",
+    "link": "https://in.tradingview.com/symbols/NSE-7485"
+  },
+  {
+    "index": 1017,
+    "name": "ORASCOM CONSTRUCTION PLC",
+    "link": "https://in.tradingview.com/symbols/EGX-ORAS.CA"
+  },
+  {
+    "index": 1029,
+    "name": "OVERSEAS CHINESE TOWN (ASIA) HOLDINGS LIMITED",
+    "link": "https://in.tradingview.com/symbols/HKEX-03366"
+  },
+  {
+    "index": 1031,
+    "name": "P.C.S. MACHINE GROUP HOLDING PUBLIC COMPANY LIMITED",
+    "link": "https://in.tradingview.com/symbols/TTSE-PCSGH"
+  },
+  {
+    "index": 1043,
+    "name": "PARTNER TECH CORP.",
+    "link": "https://in.tradingview.com/symbols/TWSE-3097"
+  },
+  {
+    "index": 1047,
+    "name": "PERENNIAL REAL ESTATE HOLDINGS LIMITED",
+    "link": "https://in.tradingview.com/symbols/SGX-40S"
+  },
+  {
+    "index": 1052,
+    "name": "PHOLDHANYA PUBLIC COMPANY LIMITED",
+    "link": "https://in.tradingview.com/symbols/TTSE-PHOL"
+  },
+  {
+    "index": 1054,
+    "name": "PICO (THAILAND) PUBLIC COMPANY LIMITED",
+    "link": "https://in.tradingview.com/symbols/TTSE-PICO"
+  },
+  {
+    "index": 1055,
+    "name": "PINE CARE GROUP LIMITED",
+    "link": "https://in.tradingview.com/symbols/HKEX-01989"
+  },
+  {
+    "index": 1060,
+    "name": "PM THORESEN ASIA HOLDINGS PUBLIC COMPANY LIMITED",
+    "link": "https://in.tradingview.com/symbols/TTSE-PMTA"
+  },
+  {
+    "index": 1071,
+    "name": "Precision Tsugami (China) Corporation",
+    "link": "https://in.tradingview.com/symbols/HKEX-01651"
+  },
+  {
+    "index": 1072,
+    "name": "PREMIER  PRODUCTS  PUBLIC COMPANY LIMITED",
+    "link": "https://in.tradingview.com/symbols/TTSE-PPP"
+  },
+  {
+    "index": 1073,
+    "name": "PREMIER ENTERPRISE PUBLIC COMPANY LIMITED",
+    "link": "https://in.tradingview.com/symbols/TTSE-PE"
+  },
+  {
+    "index": 1074,
+    "name": "PREMIER TECHNOLOGY PUBLIC COMPANY LIMITED",
+    "link": "https://in.tradingview.com/symbols/TTSE-PT"
+  },
+  {
+    "index": 1080,
+    "name": "PRO-HAWK CORPORATION",
+    "link": "https://in.tradingview.com/symbols/TWSE-8083"
+  },
+  {
+    "index": 1119,
+    "name": "RATCH GROUP PUBLIC COMPANY LIMITED",
+    "link": "https://in.tradingview.com/symbols/TTSE-RATCH"
+  },
+  {
+    "index": 1123,
+    "name": "Regal Real Estate Investment Trust",
+    "link": "https://in.tradingview.com/symbols/HKEX-01881"
+  },
+  {
+    "index": 1161,
+    "name": "SAFARI WORLD PUBLIC COMPANY LIMITED",
+    "link": "https://in.tradingview.com/symbols/TTSE-SAFARI"
+  },
+  {
+    "index": 1163,
+    "name": "SAHA UNION PROPERTY COMPANY LIMITED",
+    "link": "https://in.tradingview.com/symbols/TTSE-SUC"
+  },
+  {
+    "index": 1164,
+    "name": "SAHAMIT MACHINERY PUBLIC COMPANY LIMITED",
+    "link": "https://in.tradingview.com/symbols/TTSE-SMIT"
+  },
+  {
+    "index": 1191,
+    "name": "SCAN INTER PUBLIC COMPANY LIMITED",
+    "link": "https://in.tradingview.com/symbols/TTSE-SCN"
+  },
+  {
+    "index": 1240,
+    "name": "Shanghai Industrial Holdings Limited",
+    "link": "https://in.tradingview.com/symbols/HKEX-00363"
+  },
+  {
+    "index": 1241,
+    "name": "Shanghai Industrial Urban Development Group Limited",
+    "link": "https://in.tradingview.com/symbols/HKEX-00563"
+  },
+  {
+    "index": 1249,
+    "name": "Shanghai Prime Machinery Co., Ltd.",
+    "link": "https://in.tradingview.com/symbols/HKEX-02345"
+  },
+  {
+    "index": 1273,
+    "name": "Shenzhen Investment Limited",
+    "link": "https://in.tradingview.com/symbols/HKEX-00604"
+  },
+  {
+    "index": 1282,
+    "name": "SHIEH YIH MACHINERY INDUSTRY CO., LTD.",
+    "link": "https://in.tradingview.com/symbols/TWSE-4533"
+  },
+  {
+    "index": 1289,
+    "name": "SHIRBLE DEPARTMENT STORE HOLDINGS (CHINA) LIMITED",
+    "link": "https://in.tradingview.com/symbols/HKEX-00312"
+  },
+  {
+    "index": 1290,
+    "name": "SHUN HO PROPERTY INVESTMENTS LIMITED",
+    "link": "https://in.tradingview.com/symbols/HKEX-00219"
+  },
+  {
+    "index": 1291,
+    "name": "SHUZ TUNG MACHINERY INDUSTRIAL CO., LTD.",
+    "link": "https://in.tradingview.com/symbols/TWSE-4537"
+  },
+  {
+    "index": 1292,
+    "name": "SIAMEAST SOLUTIONS PUBLIC COMPANY LIMITED",
+    "link": "https://in.tradingview.com/symbols/TTSE-SE"
+  },
+  {
+    "index": 1305,
+    "name": "Sing Lee Software (Group) Limited",
+    "link": "https://in.tradingview.com/symbols/HKEX-08076"
+  },
+  {
+    "index": 1306,
+    "name": "SINGER THAILAND PUBLIC COMPANY LIMITED",
+    "link": "https://in.tradingview.com/symbols/TTSE-SINGER"
+  },
+  {
+    "index": 1307,
+    "name": "SINMAG EQUIPMENT CORPORATION",
+    "link": "https://in.tradingview.com/symbols/TWSE-1580"
+  },
+  {
+    "index": 1328,
+    "name": "SOMBOON ADVANCE TECHNOLOGY PUBLIC COMPANY LIMITED",
+    "link": "https://in.tradingview.com/symbols/TTSE-SAT"
+  },
+  {
+    "index": 1341,
+    "name": "SRISAWAD CORPORATION PUBLIC COMPANY LIMITED",
+    "link": "https://in.tradingview.com/symbols/TTSE-SAWAD"
+  },
+  {
+    "index": 1343,
+    "name": "STARK CORPORATION PUBLIC COMPANY LIMITED",
+    "link": "https://in.tradingview.com/symbols/TTSE-STARK"
+  },
+  {
+    "index": 1354,
+    "name": "SUMMIT ASCENT HOLDINGS LIMITED",
+    "link": "https://in.tradingview.com/symbols/HKEX-00102"
+  },
+  {
+    "index": 1365,
+    "name": "SUPER ENERGY CORPORATION PUBLIC COMPANY LIMITED",
+    "link": "https://in.tradingview.com/symbols/TTSE-SUPER"
+  },
+  {
+    "index": 1379,
+    "name": "TA CHIA YUNG HO MACHINE INDUSTRY CO., LTD.",
+    "link": "https://in.tradingview.com/symbols/TWSE-2221"
+  },
+  {
+    "index": 1410,
+    "name": "TCM BIOTECH INTERNATIONAL CORP.",
+    "link": "https://in.tradingview.com/symbols/TWSE-4169"
+  },
+  {
+    "index": 1413,
+    "name": "TECHTRONIC INDUSTRIES COMPANY LIMITED",
+    "link": "https://in.tradingview.com/symbols/HKEX-00669"
+  },
+  {
+    "index": 1418,
+    "name": "TEKOM TECHNOLOGIES, INC.",
+    "link": "https://in.tradingview.com/symbols/TWSE-6294"
+  },
+  {
+    "index": 1422,
+    "name": "TERA AUTOTECH CORPORATION",
+    "link": "https://in.tradingview.com/symbols/TWSE-6234"
+  },
+  {
+    "index": 1427,
+    "name": "THAI BRITISH SECURITY PRINTING OVERSEAS COMPANY LIMITED",
+    "link": "https://in.tradingview.com/symbols/TTSE-TBSP"
+  },
+  {
+    "index": 1428,
+    "name": "THAI MUI CORPORATION PUBLIC COMPANY LIMITED",
+    "link": "https://in.tradingview.com/symbols/TTSE-THMUI"
+  },
+  {
+    "index": 1431,
+    "name": "THE ERAWAN GROUP PUBLIC COMPANY LIMITED",
+    "link": "https://in.tradingview.com/symbols/TTSE-ERW"
+  },
+  {
+    "index": 1433,
+    "name": "THIENSURAT PUBLIC COMPANY LIMITED",
+    "link": "https://in.tradingview.com/symbols/TTSE-TSR"
+  },
+  {
+    "index": 1437,
+    "name": "Tian Teck Land Limited",
+    "link": "https://in.tradingview.com/symbols/HKEX-00266"
+  },
+  {
+    "index": 1438,
+    "name": "TIAN ZHENG INTERNATIONAL PRECISION MACHINERY CO., LTD.",
+    "link": "https://in.tradingview.com/symbols/TWSE-6654"
+  },
+  {
+    "index": 1439,
+    "name": "Tianguang Zhongmao Co., Ltd.",
+    "link": "https://in.tradingview.com/symbols/SZSE-002509"
+  },
+  {
+    "index": 1444,
+    "name": "TIANNENG POWER INTERNATIONAL LIMITED",
+    "link": "https://in.tradingview.com/symbols/HKEX-00819"
+  },
+  {
+    "index": 1465,
+    "name": "TONG HUA HOLDINGS PUBLIC COMPANY LIMITED",
+    "link": "https://in.tradingview.com/symbols/TTSE-TH"
+  },
+  {
+    "index": 1480,
+    "name": "TPC POWER HOLDING PUBLIC COMPANY LIMITED",
+    "link": "https://in.tradingview.com/symbols/TTSE-TPCH"
+  },
+  {
+    "index": 1482,
+    "name": "TRIDENT LIMITED",
+    "link": "https://in.tradingview.com/symbols/BSE-521064"
+  },
+  {
+    "index": 1483,
+    "name": "TRINITY WATTHANA PUBLIC COMPANY LIMITED",
+    "link": "https://in.tradingview.com/symbols/TTSE-TNITY"
+  },
+  {
+    "index": 1517,
+    "name": "UNITED GULF HOLDING COMPANY",
+    "link": "https://in.tradingview.com/symbols/BSE-UGH"
+  },
+  {
+    "index": 1520,
+    "name": "UNIVERSAL VISION BIOTECHNOLOGY CO., LTD.",
+    "link": "https://in.tradingview.com/symbols/TWSE-3218"
+  },
+  {
+    "index": 1523,
+    "name": "Upbest Group Limited",
+    "link": "https://in.tradingview.com/symbols/HKEX-00335"
+  },
+  {
+    "index": 1525,
+    "name": "UTECHZONE CO., LTD.",
+    "link": "https://in.tradingview.com/symbols/TWSE-3455"
+  },
+  {
+    "index": 1526,
+    "name": "UVAT TECHNOLOGY CO., LTD.",
+    "link": "https://in.tradingview.com/symbols/TWSE-3580"
+  },
+  {
+    "index": 1535,
+    "name": "Virscend Education Company Limited",
+    "link": "https://in.tradingview.com/symbols/HKEX-01565"
+  },
+  {
+    "index": 1541,
+    "name": "WAH SUN HANDBAGS INTERNATIONAL HOLDINGS LIMITED",
+    "link": "https://in.tradingview.com/symbols/HKEX-02683"
+  },
+  {
+    "index": 1547,
+    "name": "Weichai Power Co., Ltd.",
+    "link": "https://in.tradingview.com/symbols/HKEX-02338"
+  },
+  {
+    "index": 1556,
+    "name": "WINOX HOLDINGS LIMITED",
+    "link": "https://in.tradingview.com/symbols/HKEX-06838"
+  },
+  {
+    "index": 1587,
+    "name": "Xiamen Zhongjun Industry Co., Ltd.",
+    "link": "https://in.tradingview.com/symbols/HKEX-01966"
+  },
+  {
+    "index": 1589,
+    "name": "Xinchen China Power Holdings Limited",
+    "link": "https://in.tradingview.com/symbols/HKEX-01148"
+  },
+  {
+    "index": 1590,
+    "name": "XINGHUA PORT HOLDINGS LTD.",
+    "link": "https://in.tradingview.com/symbols/HKEX-01990"
+  },
+  {
+    "index": 1596,
+    "name": "Y. T. Realty Group Limited",
+    "link": "https://in.tradingview.com/symbols/HKEX-00075"
+  },
+  {
+    "index": 1630,
+    "name": "Yuexiu Property Company Limited",
+    "link": "https://in.tradingview.com/symbols/HKEX-00123"
+  },
+  {
+    "index": 1635,
+    "name": "ZACD GROUP LTD.",
+    "link": "https://in.tradingview.com/symbols/HKEX-08313"
+  },
+  {
+    "index": 1670,
+    "name": "ZHONGYU GAS HOLDINGS LIMITED",
+    "link": "https://in.tradingview.com/symbols/HKEX-03633"
+  },
+  {
+    "index": 1671,
+    "name": "Zhuhai Holdings Investment Group Limited",
+    "link": "https://in.tradingview.com/symbols/HKEX-00908"
+  }
+]
