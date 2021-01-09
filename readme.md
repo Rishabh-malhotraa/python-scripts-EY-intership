@@ -8,7 +8,6 @@
 [![Contributors][contributors-shield]][contributors-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
@@ -16,10 +15,10 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/EY_logo_2019.svg/1200px-EY_logo_2019.svg.png" alt="Logo" width="80" height="80">
   </a>
   <strong>
-    <h3 align="center" >Python Script For Data Extraction</h3>
+    <h3 align="center" >Python Scripts For Data Extraction</h3>
   </strong>
   <p align="center">
-    All the code written along with documentaion of the code written during fall intereship at Ernst & Young.
+    Contains all the code written along with it documentaion written during fall intereship at Ernst & Young.
     <br />
     <a href="https://github.com/Rishabh-malhotraa/python-scripts-EY-intership/tree/main/src"><strong>Explore the project »</strong></a>
     <br />
