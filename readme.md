@@ -1,5 +1,5 @@
 <!--
-*** Thanks for checking out the codeforces-diary. If you have a suggestion
+*** Thanks for checking out the python-scripts-EY-intership. If you have a suggestion
 *** that would make this better, please fork the repo and create a pull request
 *** or simply open an issue with the tag "enhancement".
 -->
@@ -12,7 +12,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/Rishabh-malhotraa/codeforces-diary">
+  <a href="https://github.com/Rishabh-malhotraa/python-scripts-EY-intership">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/EY_logo_2019.svg/1200px-EY_logo_2019.svg.png" alt="Logo" width="80" height="80">
   </a>
   <strong>
@@ -21,7 +21,7 @@
   <p align="center">
     All the code written along with documentaion of the code written during fall intereship at Ernst & Young.
     <br />
-    <a href="https://github.com/Rishabh-malhotraa/codeforces-diary/tree/main/src"><strong>Explore the project »</strong></a>
+    <a href="https://github.com/Rishabh-malhotraa/python-scripts-EY-intership/tree/main/src"><strong>Explore the project »</strong></a>
     <br />
   </p>
 </p>
@@ -32,19 +32,8 @@
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
     </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#roadmap">Documentation</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
@@ -61,10 +50,14 @@
 
 Contains all the python code written during 2 month EY Internship which lasted from Aug-Oct 2020.
 
-### [DOCUMENTATION 1]()
-### [DOCUMENTATION 1]()
-### [DOCUMENTATION 1]()
-### [DOCUMENTATION 1]()
+---
+
+## DOCUMENTAITION
+
+### [DOCUMENTATION: Scrapping][scrapping-documentation]
+### [DOCUMENTATION: Search I][search-1-documentation]
+### [DOCUMENTATION: Search II][search-2-documentation]
+### [DOCUMENTATION: Filter][filter-documentation]
 
 
 
@@ -91,10 +84,17 @@ Rishabh malhotraa - [@CaffeinatedRish](https://twitter.com/CaffeinatedRish) - rm
 * [MIT License](https://opensource.org/licenses/MIT)
   
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/Rishabh-malhotraa/codeforces-diary.svg?style=for-the-badge
-[contributors-url]: https://github.com/Rishabh-malhotraa/codeforces-diary/graphs/contributors
-[license-shield]: https://img.shields.io/github/license/Rishabh-malhotraa/codeforces-diary.svg?style=for-the-badge
-[license-url]: https://github.com/Rishabh-malhotraa/codeforces-diary/blob/main/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/Rishabh-malhotraa/python-scripts-EY-intership.svg?style=for-the-badge
+[contributors-url]: https://github.com/Rishabh-malhotraa/python-scripts-EY-intership/graphs/contributors
+[license-shield]: https://img.shields.io/github/license/Rishabh-malhotraa/python-scripts-EY-intership.svg?style=for-the-badge
+[license-url]: https://github.com/Rishabh-malhotraa/python-scripts-EY-intership/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/rishabh-malhotra-4536a418b
 [project-gif]: src/web-scrapping/asset/buisness_description_automation.gif
+
+[scrapping-documentation]: https://github.com/Rishabh-malhotraa/python-scripts-EY-intership/blob/main/src/web-scrapping/readme.md
+[filter-documentation]: https://github.com/Rishabh-malhotraa/python-scripts-EY-intership/tree/main/src/filter-data
+[search-1-documentation]: https://github.com/Rishabh-malhotraa/python-scripts-EY-intership/blob/main/src/search-type-2/readme.md
+[search-2-documentation]: https://github.com/Rishabh-malhotraa/python-scripts-EY-intership/tree/main/src/search-type-1
+
+
