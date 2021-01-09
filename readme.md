@@ -86,7 +86,7 @@ Rishabh malhotraa - [@CaffeinatedRish](https://twitter.com/CaffeinatedRish) - rm
 [contributors-shield]: https://img.shields.io/github/contributors/Rishabh-malhotraa/python-scripts-EY-intership.svg?style=for-the-badge
 [contributors-url]: https://github.com/Rishabh-malhotraa/python-scripts-EY-intership/graphs/contributors
 [license-shield]: https://img.shields.io/github/license/Rishabh-malhotraa/python-scripts-EY-intership.svg?style=for-the-badge
-[license-url]: https://github.com/Rishabh-malhotraa/python-scripts-EY-intership/blob/main/LICENSE.txt
+[license-url]: https://github.com/Rishabh-malhotraa/python-scripts-EY-intership/blob/main/LICENSE.TXT
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/rishabh-malhotra-4536a418b
 [project-gif]: src/web-scrapping/asset/buisness_description_automation.gif
