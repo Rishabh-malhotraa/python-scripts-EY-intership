@@ -32,7 +32,7 @@
     <li>
       <a href="#about-the-project">About The Project</a>
     </li>
-    <li><a href="#roadmap">Documentation</a></li>
+    <li><a href="#documentation">Documentation</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
@@ -56,7 +56,7 @@ Contains all the python code written during 2 month EY Internship which lasted f
 
 ---
 
-## DOCUMENTAITION
+## DOCUMENTATION
 
 ### [DOCUMENTATION: Scrapping][scrapping-documentation]
 ### [DOCUMENTATION: Search I][search-1-documentation]
