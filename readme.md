@@ -18,7 +18,7 @@
     <h3 align="center" >Python Scripts For Data Extraction</h3>
   </strong>
   <p align="center">
-    Contains all the code written along with it documentaion written during fall intereship at Ernst & Young.
+    Contains all the python code written during 2 month Ernst & Young Internship which lasted from Aug-Oct 2020.
     <br />
     <a href="https://github.com/Rishabh-malhotraa/python-scripts-EY-intership/tree/main/src"><strong>Explore the project »</strong></a>
     <br />
