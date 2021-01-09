@@ -41,6 +41,11 @@
 
 ## About The Project
 
+Project contains python scripts
+- to automate data entry into excel sheets.
+- Scrape information of provided list of _publically traded companies(5000+)_ and enter it is csv/excel format.
+- Filtering out data from docx file based on certain conditions given, and add it to the excel file.
+
 <br/>
 
  ![Web Scrapping][project-gif]
